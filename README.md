@@ -38,6 +38,7 @@ This curated list tracks:
 - [🏗️ Architectural Blueprint: Building a Self-Hosted Stack](#️-architectural-blueprint-building-a-self-hosted-stack)
 - [📖 Core Concepts & Terminology](#-core-concepts--terminology)
 - [📈 Star History](#-star-history)
+- [💖 Support & Community](#-support--community)
 - [🤝 How to Contribute](#-how-to-contribute)
 - [⚖️ Disclaimer](#️-disclaimer)
 
@@ -193,6 +194,24 @@ flowchart TD
 ## 📈 Star History
 
 [![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Strategic-Real-Estate-Valuation-Models&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Strategic-Real-Estate-Valuation-Models&type=date&legend=top-left)
+
+---
+
+## 💖 Support & Community
+
+Thank you for exploring and utilizing this strategic real estate valuation models guide! 
+
+If you find this ecosystem index helpful for your research, team projects, or PropTech architecture:
+- ⭐ **Star this repository** to show your appreciation and help more developers and appraisers discover it.
+- 🍴 **Fork and share** with colleagues, real estate analysts, and appraisal data science teams.
+- 📢 **Spread the word** on LinkedIn, Twitter/X, and real estate analytics forums.
+- ☕ **Buy a coffee / Sponsor**: If you'd like to support the ongoing maintenance, curation, and expansion of this project, consider buying a coffee or becoming a sponsor via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+<p align="left">
+  <a href="https://github.com/sponsors/ishandutta2007">
+    <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=github-sponsors" alt="Sponsor on GitHub" />
+  </a>
+</p>
 
 ---
 
